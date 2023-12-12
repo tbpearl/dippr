@@ -1,0 +1,19 @@
+#first {
+  /* background-color: #bbd0f2;
+  color: #428227;
+  background-image: url("https://www.carnival.com/-/media/images/explore/destinations/regions/carnival-southern-caribbean-region-image-3.jpg");
+  background-repeat: no-repeat;
+  background-position: center; */
+
+  color: #bbd0f2;
+  background: #428227
+    url("https://www.carnival.com/-/media/images/explore/destinations/regions/carnival-southern-caribbean-region-image-3.jpg")
+    no-repeat center;
+  height: 500px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#second {
+  height: 2000px;
+}
